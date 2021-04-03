@@ -1,6 +1,6 @@
 # Download Helper
 
-Helper script used with ffmpeg.
+Helper Python scripts used when downloading files.
 
 ## Script
 
