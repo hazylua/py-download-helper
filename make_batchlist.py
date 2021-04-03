@@ -1,5 +1,5 @@
 """
-Makes batch list to be used with ffmpeg.
+Makes batch list to be used with youtube-dl.
 Example usage command: youtube-dl -f "bestaudio/best" -v -x --audio-format vorbis --audio-quality 0 --batch-file download.txt -o "Tracks/Music_%(autonumber)1d.%(ext)s"
 """
 
